@@ -10,7 +10,10 @@ This section contains my analysis of Question 1 (Methods and Control Structures)
 - After reviewing, I saw no reason to change/revise my solution.
   
 #### Key concepts tested in this question:
-- The primary concepts that I tested in this question were the following: calling methods from other classes, declaring and updating a variable, minimization of redundancy, and the utilization of for loops.
+- Calling methods from other classes
+- Declaring and updating a variable
+- Minimization of redundancy
+- Utilization of for loops.
   
 #### What I learned from revisiting this problem:
 - I feel as if revisiting the problem didn't provide much to me. All I obtained from this was clarity, knowing that my answer would've been sufficient.
