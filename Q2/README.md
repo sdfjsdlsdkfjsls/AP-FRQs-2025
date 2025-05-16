@@ -10,9 +10,9 @@ This section contains my analysis of Question 2 (Class Design):
 - I believe my previous and revised solutions are very similar and lack any changes.
   
 #### Key concepts tested in this question:
-- Usage of "if" statements
-- Usage of indexOf()
-- String appending
+- Usage of "if" statements.
+- Usage of indexOf().
+- String appending.
   
 #### What I learned from revisiting this problem:
 - The question is in essence less complicated than how I had originally perceived it. Perhaps it was the stress during the exam or maybe it was my lack of understanding for the question, but now I understand and it was much easier to redo outside of the exam.
