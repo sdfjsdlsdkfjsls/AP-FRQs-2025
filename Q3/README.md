@@ -10,7 +10,8 @@ This section contains my analysis of Question 3 (Arrays and ArrayLists):
 - I instead started using an enhanced for loop, as opposed to a regular for loop. This action saves lines and time when being compared to my previous response during the test.
   
 #### Key concepts tested in this question:
-- Ideas here
+- Usage of for loops & enhanced for loops.
+- Initialization of ArrayLists.
   
 #### What I learned from revisiting this problem:
 - Ideas here
