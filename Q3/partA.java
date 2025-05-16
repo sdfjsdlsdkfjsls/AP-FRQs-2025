@@ -1,8 +1,8 @@
 public Round(String[] names) {
-  ArrayList<Competitor> list = new ArrayList<Competitor>();
+  competitorList = new ArrayList<Competitor>();
   int rank = 1;
   for (String name: names) {
-    list.add(new Competitor(name, rank));
+    competitorList.add(new Competitor(name, rank));
     rank++;
   }
 }
