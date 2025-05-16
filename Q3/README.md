@@ -1,5 +1,5 @@
 ## Question 2 Analysis
-### Signature
+### Competition/Competitor
 
 This section contains my analysis of Question 3 (Arrays and ArrayLists):
 
