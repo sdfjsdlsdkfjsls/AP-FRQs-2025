@@ -16,4 +16,4 @@ This section contains my analysis of Question 4 (2D Arrays):
 - Usage of Math.random().
   
 #### What I learned from revisiting this problem:
-- Having clean code makes creating it quicker.
+- "Having clean code makes creating it quicker." Also, "give yourself better test cases".
