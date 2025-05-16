@@ -5,5 +5,4 @@ public Round(String[] names) {
     list.add(new Competitor(name, rank));
     rank++;
   }
-  return list;
 }
