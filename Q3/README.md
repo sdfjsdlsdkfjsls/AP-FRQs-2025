@@ -1,4 +1,4 @@
-## Question 2 Analysis
+## Question 3 Analysis
 ### Competition/Competitor
 
 This section contains my analysis of Question 3 (Arrays and ArrayLists):
