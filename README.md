@@ -24,7 +24,7 @@ Through this review process, I've identified the following areas for continued l
 Resources I found helpful during my exam preparation and review are the following:
 
 - CollegeBoard (https://apcentral.collegeboard.org/courses/ap-computer-science-a/exam/past-exam-questions)
-- AP Classroom
+- AP Classroom (https://apclassroom.collegeboard.org/8/assignments?status=assigned)
   
 ## Future Goals
 Moving forward, I plan to do the following:
